@@ -25,6 +25,7 @@ class Maths {
     int b = 6;
     int div = a ~/ b;
     print("div=$div");
+    //tilt division returs integer value
   }
 }
 
