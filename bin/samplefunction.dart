@@ -31,8 +31,6 @@ class Maths {
 
   void main() {
   Maths obj=Maths();
-  obj.add();
-  obj.diff();
-  obj.multi();
-  obj.divi();
+  obj..add()..diff()..multi()..divi();
+
   }
