@@ -7,5 +7,11 @@ void main(){
   var set3=Set();
   set3.addAll(set1);
   print(set3);
+  set3.forEach((element) {
+    print(element);
+  });
+  for(int i in set3){ //in for in  loop all the elements in set3 stored in the variable i
+    print(i);
+  }
 
 }
