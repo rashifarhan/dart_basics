@@ -26,6 +26,7 @@ void main(){
   grandson.gdetails("mammootty", 71);
   grandson.fdetails("dulquar", 36);
   grandson.sdetails("amal", 7);
+  ///we can call both father and grandfather using grandson class
 
 
 }
