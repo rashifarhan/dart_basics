@@ -31,7 +31,7 @@ class Childabs implements Interface1{
 class Child1 extends Interface1{}
 
 void main(){
-  
+
   Child1 obj2=Child1();
   obj2.show();
   obj2.display();
