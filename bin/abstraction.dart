@@ -13,7 +13,7 @@ abstract class MyClass{
 class Class1 extends MyClass{
   @override
   void display() {
-    
+
     print("my name is ${name="aswin"}");
   }
 
