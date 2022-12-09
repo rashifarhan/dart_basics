@@ -6,3 +6,4 @@ void main(){
   obj.myage=23;
   print(obj.myname);
 }
+///Encapsulation is a type of data hiding
