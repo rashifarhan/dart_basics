@@ -5,6 +5,8 @@ void main(){
     print(div);
   }catch(obj){
     print("Exception occured $obj");
+  }finally{
+    print("Finally block always executed");
   }
   print("thank u");
 }
@@ -18,3 +20,4 @@ void main(){
 //   }
 ///also we can use on catch
 ///we can use more than one on but not catch
+///if we did not handle the exception but finally block still work
